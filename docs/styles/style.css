@@ -4,7 +4,7 @@ body
 }
 .imageflottante
 {
-    float: right;
+    float: top 100px;
 }
 
 p, li
@@ -14,7 +14,7 @@ p, li
 
 a
 {
-    color: black;
+    color: red;
 }
 
 div
@@ -25,4 +25,9 @@ div
 h2, h3
 {
     border-bottom: 1px solid black;
+}
+p
+{
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+
 }
