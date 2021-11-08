@@ -2,11 +2,6 @@ body
 {
     background-color: lemonchiffon;
 }
-.imageflottante
-{
-    float: top 100px;
-}
-
 p, li
 {
     color: blue;
@@ -28,4 +23,7 @@ div
 {
     display: flex;
     justify-content: space-between;
+    flex-direction: row-reverse;
+
+
 }
