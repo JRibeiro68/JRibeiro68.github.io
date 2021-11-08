@@ -1,36 +1,36 @@
-body
-{
+body{
     background-color: #9DD1F1;
 }
-p, li
-{
+
+p, li{
     color: #031927;
 }
-h2, h3
-{
+
+h2, h3{
     border-bottom: 1px solid #BA1200;
 }
-p
-{
+
+p{
     font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
     border: 3px black solid; 
     border-radius: 10px;
     padding-left: 3px;
     padding-right: 3px;
-
 }
-div
-{
+div{
     display: flex;
     justify-content: space-between;
     flex-direction: row-reverse;
 }
-.photo
-{
+
+.photo{
     border: 3px black solid;
+    width: 150px;
+    height: 150px;
+    margin-top: 15px;
 }
-h1
-{
+
+h1{
    border: 3px #BA1200 double; 
    margin-bottom: 110px;
    border-radius: 10px;
