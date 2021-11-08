@@ -13,6 +13,11 @@ h2, h3
 p
 {
     font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    border: 3px black solid; 
+    border-radius: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+
 }
 div
 {
@@ -26,6 +31,9 @@ div
 }
 h1
 {
-   border: 5px #BA1200 double; 
-   margin-bottom: 100px;
+   border: 3px #BA1200 double; 
+   margin-bottom: 110px;
+   border-radius: 10px;
+   padding-left: 3px;
+   padding-right: 3px;
 }
