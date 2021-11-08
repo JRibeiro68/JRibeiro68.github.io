@@ -1,19 +1,14 @@
 body
 {
-    background-color: lemonchiffon;
+    background-color: #9DD1F1;
 }
 p, li
 {
-    color: blue;
-}
-
-a
-{
-    color: red;
+    color: #031927;
 }
 h2, h3
 {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #BA1200;
 }
 p
 {
@@ -24,6 +19,4 @@ div
     display: flex;
     justify-content: space-between;
     flex-direction: row-reverse;
-
-
 }
