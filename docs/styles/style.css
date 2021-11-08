@@ -20,3 +20,7 @@ div
     justify-content: space-between;
     flex-direction: row-reverse;
 }
+.photo
+{
+    border: 3px black solid;
+}
