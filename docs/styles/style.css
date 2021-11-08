@@ -24,3 +24,8 @@ div
 {
     border: 3px black solid;
 }
+h1
+{
+   border: 5px #BA1200 double; 
+   margin-bottom: 100px;
+}
