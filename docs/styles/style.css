@@ -24,3 +24,8 @@ p
 {
     font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
 }
+div
+{
+    display: flex;
+    justify-content: space-between;
+}
